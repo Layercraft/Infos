@@ -17,10 +17,9 @@
 
 ### General APIs
 
+- Protobuf (Protocol Buffers)
 - GRPC (Communication between Services and Management)
 - Google Guava (Common Libraries)
 - Google Gson (Serialization)
 - Netty (Minecraft Networking)
 - RxJava (Reactive Programming)
-- RxNetty (Reactive Networking)
-
