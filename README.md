@@ -9,7 +9,10 @@ Infos about microservices:
 - [Microservices DE](https://de.wikipedia.org/wiki/Microservices)
 
 Unfortunatly, the Minecraft server is not a microservice. It is a monolithic application. Exactly the same as the minecraft client.
-So, unfortunately, we have to deviate a bit from the concept of microservices, since not everything can be implemented with the Minecraft client.
+So, unfortunately, we have to deviate a bit from the concept of microservices.
 
 Baisc idea for the technical stack:
 [TECHSTACK](./TECHSTACK.md)
+
+Idea as a diagram:
+![Idea as a diagram](images/idea.png)
