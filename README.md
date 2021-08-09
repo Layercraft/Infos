@@ -15,4 +15,5 @@ Baisc idea for the technical stack:
 [TECHSTACK](./TECHSTACK.md)
 
 Idea as a diagram:
+
 ![Idea as a diagram](images/idea.png)
