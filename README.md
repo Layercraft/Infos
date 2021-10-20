@@ -21,7 +21,7 @@ Idea as a diagram:
 
 First Overview:
 
-![First Overview](images/first_overview.png)
+![First Overview](images/foverview.png)
 
 
 ### Goals 
