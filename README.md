@@ -17,3 +17,16 @@ Baisc idea for the technical stack:
 Idea as a diagram:
 
 ![Idea as a diagram](images/idea.png)
+
+
+First Overview:
+
+![First Overview](images/first_overview.png)
+
+
+### Goals 
++ better performance usage as the normal minecraft server
++ better security
++ handle more players
++ more features
++ better api for plugins
