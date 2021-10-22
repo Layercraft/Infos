@@ -13,7 +13,12 @@
 - Redis (In-memory cache)
 
 
-## Language: Java
+## Language: Java (JVM)
+
+Usage: 
+
+- Translator
+- Services
 
 ### General APIs
 
@@ -23,3 +28,17 @@
 - Google Gson (Serialization)
 - Netty (Minecraft Networking)
 - RxJava (Reactive Programming)
+
+
+## Language: Go
+
+Usage:
+
+- API Gateway
+- Services
+- Auth Service
+
+### General APIs
+
+- Protobuf (Protocol Buffers)
+- GRPC (Communication between Services and Management)

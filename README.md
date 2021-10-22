@@ -8,25 +8,28 @@ Infos about microservices:
 - [Microservices](https://en.wikipedia.org/wiki/Microservices)
 - [Microservices DE](https://de.wikipedia.org/wiki/Microservices)
 
-Unfortunatly, the Minecraft server is not a microservice. It is a monolithic application. Exactly the same as the minecraft client.
+Unfortunatly, the default Minecraft server is not a microservice. It is a monolithic application. Exactly the same as the minecraft client.
 So, unfortunately, we have to deviate a bit from the concept of microservices.
 
 Baisc idea for the technical stack:
 [TECHSTACK](./TECHSTACK.md)
 
-Idea as a diagram:
-
-![Idea as a diagram](images/idea.png)
-
-
-First Overview:
-
-![First Overview](images/overview.png)
-
-
-### Goals 
+## Goals:
 + better performance usage as the normal minecraft server
 + better security
 + handle more players
 + more features
 + better api for plugins
++ imitate bigger servers, to be able to handle more players on the same server
++ other stuff
+
+
+## Overviews:
+Basic idea overview:
+
+![Idea as a diagram](images/idea.png)
+
+
+Overview:
+
+![Overview](images/overview.png)
