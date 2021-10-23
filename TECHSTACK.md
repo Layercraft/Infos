@@ -5,12 +5,15 @@
 - Java (JVM)
 - Gradle (build tool)
 - GRPC (Protocol Buffers)
-- Docker (Containerization)	
+- Docker (Containerization)
 
 
 ## Databases
-- MongoDB (NoSQL)
+- MongoDB (NoSQL) or (later: MariaDB (SQL))
 - Redis (In-memory cache)
+
+## Logging
+- Sentry 
 
 
 ## Language: Java (JVM)
