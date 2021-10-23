@@ -9,7 +9,7 @@ Infos about microservices:
 - [Microservices DE](https://de.wikipedia.org/wiki/Microservices)
 
 Unfortunatly, the default Minecraft server is not a microservice. It is a monolithic application. Exactly the same as the minecraft client.
-So, unfortunately, we have to deviate a bit from the concept of microservices.
+So, unfortunately, we have to deviate a bit from the concept of microservices. And so we need to look to SOA (service-oriented architecture) for a lot of things.
 
 Baisc idea for the technical stack:
 [TECHSTACK](./TECHSTACK.md)
