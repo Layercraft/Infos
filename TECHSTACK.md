@@ -18,7 +18,7 @@
 
 ## Language: Java (JVM)
 
-Usage: 
+### Usage: 
 
 - Translator
 - Services
@@ -35,7 +35,7 @@ Usage:
 
 ## Language: Go
 
-Usage:
+### Usage:
 
 - API Gateway
 - Services
