@@ -8,11 +8,11 @@
 - Docker (Containerization)
 
 
-## Databases
+### Databases
 - MongoDB (NoSQL) or (later: MariaDB (SQL))
 - Redis (In-memory cache)
 
-## Logging
+### Logging
 - Sentry 
 
 
