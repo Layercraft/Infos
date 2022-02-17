@@ -2,8 +2,8 @@
 
 ## General Tecknology Stack
 
-- Java (JVM)
-- Gradle (build tool)
+- Rust 
+- Go
 - GRPC (Protocol Buffers)
 - Docker (Containerization)
 
@@ -12,36 +12,25 @@
 - MongoDB (NoSQL) or (later: MariaDB (SQL))
 - Redis (In-memory cache)
 
-### Logging
-- Sentry 
+## Languages: 
 
-
-## Language: Java (JVM)
-
-### Usage: 
-
-- Translator
-- Services
-
-### General APIs
-
-- Protobuf (Protocol Buffers)
-- GRPC (Communication between Services and Management)
-- Google Guava (Common Libraries)
-- Google Gson (Serialization)
-- Netty (Minecraft Networking)
-- RxJava (Reactive Programming)
+All languages are used in this project.
 
 
 ## Language: Go
 
-### Usage:
+#### Usage:
 
-- API Gateway
-- Services
-- Auth Service
+- Webservices like: Authendication, User management, etc.
 
-### General APIs
+## Language: Rust
+
+#### Usage:
+
+- Rest 
+
+## General APIs
 
 - Protobuf (Protocol Buffers)
 - GRPC (Communication between Services and Management)
+- Buf 
