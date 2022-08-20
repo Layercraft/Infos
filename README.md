@@ -52,3 +52,13 @@ Explaning the diffrent parts of the system:
 - Message Service: The message service is the central point of the system. It will handle the communication between the api, the translator and the mc services.
 - MC Services: On the mc services runs all important stuff like the world, the player, the inventory, the crafting, the chat, the command etc. for a actual minecraft server.
 - API: The api is the interface between the services and the plugins.
+
+More Explaning: 
+- [API](./software-parts/api.md)
+
+- [Services](./software-parts/services.md)
+
+- [Service Controller](./software-parts/service-controller.md)
+
+- [Connector](./software-parts/connector.md)
+- [Translator](./software-parts/translator.md)
