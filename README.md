@@ -6,8 +6,8 @@ The goal is a new development of the Minecraft server according to new standards
 Infos about that:
 
 - [Microservices](https://en.wikipedia.org/wiki/Microservices)
-- [SOA] (https://en.wikipedia.org/wiki/Service-oriented_architecture)
-- [Reactive] (https://en.wikipedia.org/wiki/Reactive_programming)
+- [SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+- [Reactive](https://en.wikipedia.org/wiki/Reactive_programming)
 - [Reactive Microservices](https://www.lightbend.com/microservices/reactive-microservices-events-domain-driven-design-ddd)
 
 
