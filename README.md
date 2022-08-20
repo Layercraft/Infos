@@ -55,10 +55,7 @@ Explaning the diffrent parts of the system:
 
 More Explaning: 
 - [API](./software-parts/api.md)
-
 - [Services](./software-parts/services.md)
-
 - [Service Controller](./software-parts/service-controller.md)
-
 - [Connector](./software-parts/connector.md)
 - [Translator](./software-parts/translator.md)
