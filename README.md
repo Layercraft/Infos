@@ -1,26 +1,26 @@
 # Infos
-Infos about the project.
+## Infos about the project.
 
-The goal is a new development of the Minecraft server according to new standards and their implementation which should go in the direction of reactive microservices and SOA.
+The goal is a new development of the Minecraft server according to new standards. This means stateless design pattern and a implementation which should go in the direction of reactive microservices.
 
-Infos about that:
+### Infos about the keywords:
 
 - [Microservices](https://en.wikipedia.org/wiki/Microservices)
 - [SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 - [Reactive](https://en.wikipedia.org/wiki/Reactive_programming)
 - [Reactive Microservices](https://www.lightbend.com/microservices/reactive-microservices-events-domain-driven-design-ddd)
+- [Stateless](https://en.wikipedia.org/wiki/Service_statelessness_principle)
 
+### Microservices trade-offs
+Unfortunatly, the default Minecraft server is not a microservice. It is a monolithic application. Exactly the same as the minecraft client. So, we have to deviate a bit from the concept of microservices. And so we need to look to SOA (service-oriented architecture) for a lot of things.
 
-Unfortunatly, the default Minecraft server is not a microservice. It is a monolithic application. Exactly the same as the minecraft client.
-So, unfortunately, we have to deviate a bit from the concept of microservices. And so we need to look to SOA (service-oriented architecture) for a lot of things.
+### Stateless
+Important Information: Everything runs stateless. No states. Only the database knows something.
 
-important Information: Everything runs stateless. No state. Only the database.
-
+### Plugins
 Problems with a decentralized minecraft server but a central plugin and our way around it:
 It is a small paradox to pull something apart only to make it centrally accessible again at the end. We have thought about this problem a lot and got stuck with our current solution. We don't have a direct connection between api, translator or mc services, this will only work through a message service like rabbitmq, we do this to continue the concept of asynchrony and not to introduce a complex system between client and server communication. 
 
-Baisc idea for the technical stack:
-[TECHSTACK](./TECHSTACK.md)
 
 ## Goals:
 + better performance usage as the normal minecraft server
@@ -33,6 +33,9 @@ Baisc idea for the technical stack:
 + k8s deployment
 + other stuff
 
+
+Baisc idea for the technical stack:
+[TECHSTACK](./TECHSTACK.md)
 
 
 ## Overviews:
