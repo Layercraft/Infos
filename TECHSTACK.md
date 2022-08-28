@@ -1,5 +1,3 @@
-# TechStack
-
 ## Our TechStack
 
 - Kotlin (JVM)
