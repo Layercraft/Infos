@@ -1,13 +1,14 @@
 # TechStack
 
-## General Tecknology Stack
+## Our TechStack
 
-- Kotlin
+- Kotlin (JVM)
 - GRPC (Protocol Buffers)
-- Docker & k8s (Containerization)
+- Docker (Containerization)
 
 
-### Databases
+## Other Software
 - MongoDB (NoSQL) or (later: MariaDB (SQL))
 - Redis (In-memory cache)
 - RabbitMQ (Message Service)
+- k8s (Containerization)
