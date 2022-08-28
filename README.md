@@ -1,5 +1,5 @@
 # Infos
-## Infos about the project.
+> Infos about the project.
 
 The goal is a new development of the Minecraft server according to new standards. This means stateless design pattern and a implementation which should go in the direction of reactive microservices.
 
