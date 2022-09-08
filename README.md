@@ -1,7 +1,7 @@
 # Infos
 > Infos about the project.
 
-The goal is a new development of the Minecraft server according to new standards. This means stateless design pattern and a implementation which should go in the direction of reactive microservices.
+The goal is to develope a new Minecraft server according to modern standards. This means stateless design pattern and a implementation which should go in the direction of reactive microservices.
 
 ### Infos about the keywords:
 
@@ -12,7 +12,7 @@ The goal is a new development of the Minecraft server according to new standards
 - [Stateless](https://en.wikipedia.org/wiki/Service_statelessness_principle)
 
 ### Microservices trade-offs
-Unfortunatly, the default Minecraft server is not a microservice. It is a monolithic application. Exactly the same as the minecraft client. So, we have to deviate a bit from the concept of microservices. And so we need to look to SOA (service-oriented architecture) for a lot of things.
+The Notchain Minecraft server is not microservice or stateless, so the Minecraft client is not designed that way. That's why we have to change some things from the basic idea of microservices to SOA (service-oriented architecture).
 
 ### Stateless
 Important Information: Everything runs stateless. No states. Only the database knows something.
@@ -25,14 +25,12 @@ It is a small paradox to pull something apart only to make it centrally accessib
 ## Goals:
 + better performance usage as the normal minecraft server
 + better security
-+ handle more players
-+ more features
++ handle more players with less hardware
++ more features, through better api architecture
 + better api for plugins, concept in the direction of Minestorm
 + imitate bigger servers, to be able to handle more players on the same server
 + better use of resources (cpu, memory, disk)
 + k8s deployment
-+ other stuff
-
 
 Baisc idea for the technical stack:
 [TECHSTACK](./TECHSTACK.md)
