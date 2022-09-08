@@ -6,7 +6,7 @@
 
 
 ## Other Software
-- MongoDB (NoSQL) or (later: MariaDB (SQL))
-- Redis (In-memory cache)
-- RabbitMQ (Message Service)
+- Database
+- In Memory Data
+- Message Service (RabbitMQ)
 - k8s (Containerization)
