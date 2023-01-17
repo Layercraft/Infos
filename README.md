@@ -1,7 +1,7 @@
 # Infos
 > Infos about the project.
 
-The goal is to develope a new Minecraft server according to modern standards. This means stateless design pattern and a implementation which should go in the direction of reactive microservices.
+The goal is to develop a new Minecraft server according to modern standards. This means stateless design pattern and a implementation which should go in the direction of reactive microservices.
 
 ### Infos about the keywords:
 
