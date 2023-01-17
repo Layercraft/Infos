@@ -1,12 +1,10 @@
 ## Our TechStack
 
 - Kotlin (JVM)
-- GRPC (Protocol Buffers)
 - Docker (Containerization)
 
-
 ## Other Software
-- Database
+- Database (YugabyteDB -> PostgreSQL & Cassandra)
 - In Memory Data
-- Message Service (RabbitMQ)
+- Message Service (Apache Pulsar)
 - k8s (Containerization)
