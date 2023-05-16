@@ -27,7 +27,7 @@ It is a small paradox to pull something apart only to make it centrally accessib
 + better security
 + handle more players with less hardware
 + more features, through better api architecture
-+ better api for plugins, concept in the direction of Minestorm
++ better api for plugins, concept in the direction of Minestom
 + imitate bigger servers, to be able to handle more players on the same server
 + better use of resources (cpu, memory, disk)
 + k8s deployment
