@@ -1,10 +1,10 @@
 ## Our TechStack
 
 - Kotlin (JVM)
+- vert.x (Framework)
 - Docker (Containerization)
 
 ## Other Software
 - Database (YugabyteDB -> PostgreSQL & Cassandra)
-- In Memory Data
-- Message Service (Apache Pulsar)
+- Message Service (RabbitMQ)
 - k8s (Containerization)
