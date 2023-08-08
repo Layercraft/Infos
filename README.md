@@ -38,7 +38,6 @@ Baisc idea for the technical stack:
 ![Overview](images/overview.png)
 
 Explaning the diffrent parts of the system:
-
 - Connector: Here will the minecraft client connect to the server. And translates the packet from java or bedrock to a universal format. And send it into the message service.
 - Message Service: The message service is the central point of the system. It will handle the communication between the api, the connector and the mc services.
 - MC Services: On the mc services runs all important stuff like the world, the player, the inventory, the crafting, the chat, the command etc. for a actual minecraft server. Most things in a event driven way.
@@ -48,3 +47,7 @@ More Explaning:
 - [API](./software-parts/api.md)
 - [Services](./software-parts/services.md)
 - [Connector](./software-parts/connector.md)
+
+### Packet flow:
+
+![Packet flow](images/packet-flow.png)
